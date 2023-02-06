@@ -202,3 +202,14 @@ img {
 border-radius: 5px;
 }
 
+.gallery{
+display:grid;
+grid-template-columns:33% 33% 33%;
+
+}
+
+.gallery > div{
+background:#eee;
+border:solid;
+border-color: #C77BB2;
+}
